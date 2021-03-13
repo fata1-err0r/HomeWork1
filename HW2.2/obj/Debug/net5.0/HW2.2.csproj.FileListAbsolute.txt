@@ -1,0 +1,16 @@
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\HW2.2.exe
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\HW2.2.deps.json
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\HW2.2.runtimeconfig.json
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\HW2.2.runtimeconfig.dev.json
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\HW2.2.dll
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\ref\HW2.2.dll
+C:\VS9\HomeWork1\HW2.2\bin\Debug\net5.0\HW2.2.pdb
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.csprojAssemblyReference.cache
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.AssemblyInfoInputs.cache
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.AssemblyInfo.cs
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.csproj.CoreCompileInputs.cache
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.dll
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\ref\HW2.2.dll
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.pdb
+C:\VS9\HomeWork1\HW2.2\obj\Debug\net5.0\HW2.2.genruntimeconfig.cache
