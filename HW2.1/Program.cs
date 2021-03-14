@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace HomeWork1
+namespace HW2._1
 {
     class Program1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bb wrld!");
+			Console.WriteLine("Choose a months (1-12): ");
             
         }
     }
