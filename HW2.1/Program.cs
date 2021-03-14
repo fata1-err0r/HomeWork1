@@ -8,7 +8,7 @@ namespace HW2._1
 		{
 			while (true)
 			{
-				Console.WriteLine("Enter the ordinal number of the month (1-12)");
+				Console.WriteLine("Enter the ordinal number of the month (1-12) ");
 				int month = Convert.ToInt32(Console.ReadLine());
 				switch (month)
 				{

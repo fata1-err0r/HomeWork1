@@ -9,7 +9,7 @@ namespace HW2._2
             int x = 0, y = 0, count = 10;
             while (true)
 			{
-                Console.WriteLine("Choose direction (N, S, E, W), Q for exit:");
+                Console.WriteLine("Choose direction (N, S, E, W), Q for exit: ");
                 char direction = Console.ReadKey().KeyChar;
                 Console.WriteLine();
 
