@@ -31,6 +31,7 @@ namespace HW2._2
                         return;
                     default:
                         Console.WriteLine("error");
+                        count++;
                         break;
                 }
 				Console.WriteLine($"Curren coords: {x}:{y}");
@@ -38,9 +39,11 @@ namespace HW2._2
                 if (count == 0)
 				{
                     break;
-				} 
+				}
             }
-			Console.ReadKey();
+            double distace = Math.Sqrt((x * x) + (y * y));
+            Console.WriteLine($"Distance from 0 to your position: {distace}");
+            Console.ReadKey();
         }
     }
 }
